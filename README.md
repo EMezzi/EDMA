@@ -12,8 +12,8 @@ We evaluate EDMA using both closed-source and open-source LLMs. Our method impro
 
 # Performance Results
 
-![Results](figures/EDMA_vs_SOTA.png)
 ![Results](figures/EDMA_vs_prompt.png)
+![Results](figures/EDMA_vs_SC.png)
 
 # Analysis of the Results
 <table>
